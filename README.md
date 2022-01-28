@@ -1,7 +1,7 @@
 # Algorithm-Assignment4
 
-This assignment contains writing algorithms and making descriptive videos for the algorithem which is accesible through this File.
-ans also this repository contais all the implemented algorithms:
+This assignment contains writing algorithms and making descriptive videos for the algorithems which is accessible through this file,
+and also this repository contais all the implemented algorithms:
 
 
 1- Write an efficient program to find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum.
